@@ -173,6 +173,10 @@ This block displays the date and links to Google Calendar.
   {{page.humandate}}.
   {% include workshop_calendar.html %}
 </p>
+<p id="registration">
+  <strong>Registration:</strong>
+  Registration is via the University's <a href="https://www.st-andrews.ac.uk/pdms/index.php?mode=single&query=14301">Personal Development Management System</a>.
+</p>
 {% endif %}
 
 {% comment %}
